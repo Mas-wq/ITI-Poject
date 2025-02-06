@@ -10,8 +10,7 @@
 <p>4.View Posts: - part 4<br />----------------------&nbsp;<br />Display a list of all blog posts on the home page or a dedicated blog page.</p>
 <p>5.Like &amp; Unlike the post. - part 5<br />----------------------------------<br />Allow users to like and unlike posts</p>
 <p>6.Comments: - part 6<br />--------------------<br />Allow readers to leave comments on blog posts.</p>
-<p>7.Subscribe /Follow: - part 7<br />---------------------<br />a user can subscribe/Follow to another user.</p>
 <p>8.user profiles: - part 8<br />-------------------------<br />user can update their profiles also other users can see others profiles</p>
 <p>9.show profiles on a post: - part 9<br />-------------------------<br />other users can see others profiles on a post..</p>
-<p>10.Show More posts on post page in the post view page - part 10 (Today's task)<br />-----------------------------------------------------</p>
-<p>11.show number of Followers &amp; comments on dashboard<br />---------------------------------------------------</p>
+<p>10.Show More posts on post page in the post view page  <br />-----------------------------------------------------</p>
+ 
